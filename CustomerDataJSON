@@ -1,0 +1,112 @@
+[{
+    "name": "ServiceAllocationUser11",
+    "id": "9F5A7856112F4BA286908ABF96227712",
+    "parentId": "C6692213FB3E45549B1F8C7C8E9DFA3F",
+    "parentExternalId": "Administration",
+    "data": [{
+        "serviceUser": "09B03746F8484838BB8CB0F20C9D4416",
+        "partyId": "234",
+        "customers": [{
+          "name": "Dr. Advik",
+          "id": "674",
+          "cintractId": "",
+          "deviceCount": "20",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "15",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      },
+      {
+        "serviceUser": "09B03746F8484838BB8CB0F20C9D440f",
+        "partyId": "123",
+        "customers": [{
+          "name": "Brown",
+          "id": "674",
+          "deviceCount": "20",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "8",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      },
+      {
+        "serviceUser": "09B03746F8484838BB8CB0F20C9D4478",
+        "partyId": "589",
+        "customers": [{
+          "name": "Peter",
+          "id": "908",
+          "deviceCount": "20",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "2",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      }
+    ]
+  },
+  {
+    "name": "CostCenterUser11",
+    "id": "F8BE787A3B684D7AB75427DD4A2ABC81",
+    "parentId": "C6692213FB3E45549B1F8C7C8E9DFA3F",
+    "parentExternalId": "Kanto",
+    "data": [{
+        "serviceUser": "0A16A26EDE184990A2300594DB825263",
+        "partyId": "234",
+        "customers": [{
+          "name": "Dr. Anderson",
+          "id": "674",
+          "deviceCount": "22",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "1",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      },
+      {
+        "serviceUser": "105A01ABD56545FAB8C44C53D2DEE828",
+        "partyId": "123",
+        "customers": [{
+          "name": "Chandler",
+          "id": "674",
+          "deviceCount": "40",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "5",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      },
+      {
+        "serviceUser": "0F70372DA3E6481FA392219B303770B0",
+        "partyId": "589",
+        "customers": [{
+          "name": "Ray",
+          "id": "908",
+          "deviceCount": "30",
+          "unbilledAmount": {
+            "unitOfMeasurement": "usd",
+            "decimalNumber": {
+              "number": "3",
+              "decimalPlaces": "0"
+            }
+          }
+        }]
+      }
+    ]
+  }
+]
